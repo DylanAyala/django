@@ -1,3 +1,3 @@
-from .Models import Categoria
+from .Models import Categoria , SubCategorias
 
 # Create your models here.
